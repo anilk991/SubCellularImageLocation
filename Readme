@@ -1,0 +1,14 @@
+The script was run using dataset provided at https://kodu.ut.ee/~leopoldp/2016_DeepYeast/. 
+The same dataset was used in https://www.ncbi.nlm.nih.gov/pubmed/28391243. 
+RandomForestClassifier was used to classify data into 11 classes based on the locations of files in 11
+different folders. Every file in same folder belongs to same class.
+
+
+
+Requirements:
+-Python3
+-Sklearn
+-pandas
+-matplotlib
+-numpy
+
